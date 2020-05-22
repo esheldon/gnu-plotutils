@@ -1,0 +1,5 @@
+UNRELEASED
+
+    Bug Fixes
+        - Use use png_jmpbuf(png_ptr).  The png_ptr->jmpbug
+		does not work in newer libpng
