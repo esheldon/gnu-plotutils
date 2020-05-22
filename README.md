@@ -10,6 +10,6 @@ code is used by the modern biggles plotting package as a back end.
 
 On ubuntu at least the following are needed
 
+```bash
 sudo apt install build-essential libx11-dev libxft-dev libxt-dev libxaw7-dev libpng-dev
-
-
+```
